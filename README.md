@@ -1,4 +1,4 @@
-# ACME.studio Landing Page
+# ACME.studio Landing Page: FAST FIT
 Nuestro esta elaborado para sustentar 2 segmentos objetivos que ayuda a las personas vulnerables de acoso sexual o bullying
 
 Misión:
