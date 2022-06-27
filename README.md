@@ -14,3 +14,15 @@ SEGMENTOS OBJETIVOS:
 1.Personas vulnerables que sufren acoso sexual o bullying
 
 2.Especialistas en el area de psicologia
+
+DESCRIPCION DE LA APLICACION
+
+1.Contiene una interfaz de diseño interactivo
+
+2.Accesible ante cualquier usuario que desee recibir atencion
+
+3.Facil uso y entendimiento
+
+4.Brinda beneficios gratuitos para el desarrollo del usuario
+
+5.Brinda planes y subscripciones gratuitas
