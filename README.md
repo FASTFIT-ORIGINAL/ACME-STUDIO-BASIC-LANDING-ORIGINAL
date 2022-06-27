@@ -9,4 +9,5 @@ Nuestra meta es brindar soluciones eficaces a los usuarios que buscan un soporte
 
 SEGMENTOS OBJETIVOS:
 1.Personas vulnerables que sufren acoso sexual o bullying
+
 2.Especialistas en el area de psicologia
